@@ -1,0 +1,109 @@
+body{
+    margin:0; 
+    background-image: url(img/sky.jpg);
+    background-size: cover; 
+}
+.picture{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+img{
+    position: absolute;
+}
+.home {
+    width: 50vw;
+    right: 4vw;
+    top: 17vw;
+    z-index: 3;
+}
+.man{
+    width: 8vw;
+    right: 86vw;
+    top: 27vw;
+    z-index: 3;
+}
+.tree{
+    width: 27vw;
+    right: 28vw;
+    top: 0vw;
+    z-index: -1;
+}
+.tree1{
+    width: 25vw;
+    right: 67vw;
+    top: 7vw;
+    z-index: 2; 
+}
+.tree2{
+    width: 25vw;
+    right: 5vw;
+    top: 10vw;
+    z-index: -1; 
+}
+.dog1{
+    width: 5vw;
+    right: 84vw;
+    top: 38vw;
+    z-index: 3;
+}
+.cat2{
+    width: 4vw;
+    right: 45vw;
+    top: 17.5vw;
+    z-index: 2;
+}
+.cat1{
+    width: 3.5vw;
+    right: 57vw;
+    top: 32vw;
+    z-index: 2;
+}
+.cat4{
+    width: 3.5vw;
+    right: 65vw;
+    top: 32vw;
+    z-index: 2;
+}
+.kyst{
+    width: 35vw;
+    right: 70vw;
+    top: 27vw;
+    z-index: 2;
+}
+.kyst1{
+    width: 35vw;
+    right: 39vw;
+    top: 27vw;
+    z-index: 1;
+}
+.kyst2{
+    width: 35vw;
+    right: 0vw;
+    top: 27vw;
+    z-index: 1;
+} 
+.grass{
+    width: 43.7vw;
+    right: 0vw;
+    top: 13vw;
+    z-index: -1;
+}
+.grass1{
+    width: 43.7vw;
+    right: 35vw;
+    top: 13vw;
+    z-index: -1;
+}
+.grass2{
+    width: 43.7vw;
+    right: 70vw;
+    top: 13vw;
+    z-index: -1;
+}
+.bird{
+    width: 17vw;
+    right: 82vw;
+    top: 1vw;
+    z-index: -1;
+}
